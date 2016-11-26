@@ -1,7 +1,7 @@
 /*
   Solution by Nursultan Jubatyrov.
   This program uses average values of images from database and simply iterate to find the best patch.
-  How to compile:
+  How to compile::
   g++ -o imageMosaicAvg  imageMosaicAvg.cpp -I/usr/X11R6/include -L/usr/X11R6/lib -lX11
 */
 #include <vector>
