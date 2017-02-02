@@ -1,0 +1,4 @@
+/Users/nursultan/Desktop/NU/Fall 2016/PhotoMosaic/CMakeFiles/photoMosaicAverageRGBFaceDetector.dir
+/Users/nursultan/Desktop/NU/Fall 2016/PhotoMosaic/CMakeFiles/photoMosaicAverageRGB.dir
+/Users/nursultan/Desktop/NU/Fall 2016/PhotoMosaic/CMakeFiles/createDataset.dir
+/Users/nursultan/Desktop/NU/Fall 2016/PhotoMosaic/CMakeFiles/main.dir
